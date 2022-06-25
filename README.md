@@ -33,7 +33,7 @@ Split and merge HSV Image.
 ## Program:
 ```python
 # Developed By: Graham stanes
-# Register Number: 212220230059
+# Register Number: 212220230020
 
 # i) Convert BGR and RGB to HSV and GRAY
 import cv2
